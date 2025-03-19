@@ -1,7 +1,7 @@
-Secure Offline Seed Storage (SOSS)
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
 ![Offline Tool](https://img.shields.io/badge/offline-100%25%20air--gapped-blue)
 ![AES-256](https://img.shields.io/badge/encryption-AES--256-yellow)
+Secure Offline Seed Storage (SOSS)
 Created by Asipaka CJE | @kn0treel
 
 Your crypto seed phrases, securely encrypted and stored offline.
